@@ -8608,3 +8608,7 @@ input, select, textarea {
 #gallery-pic06 {
 	width: 113%;
 }
+
+.icons {
+	display: none;
+}
